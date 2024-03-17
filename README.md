@@ -6,7 +6,7 @@ Realizar uma análise exploratória de dados de vendas online, utilizando um con
 
 ## Referência
 
- - [Brazilian E-commerce Public Dataset](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Brazilian E-commerce Public Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
  - [Numpy Documentation](https://numpy.org/doc/stable/)
  - [Pandas Documentation](https://pandas.pydata.org/docs/)
  - GRUS, Joel. Data Science do zero: noções fundamentais com Python, Segunda Edição. Rio de Janeiro: Alta Books, 2021. 
